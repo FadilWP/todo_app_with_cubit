@@ -1,6 +1,6 @@
 # flutter_cubit_app
 
-A new Flutter project.
+todo app.
 
 ## Getting Started
 
